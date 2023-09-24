@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
-        <div>
-            <footer className="footer p-10 bg-base-200 text-base-content bg-black text-white">
+        <div className="bg-black">
+            <footer className="footer p-10 bg-base-200 text-base-content bg-black text-white container mx-auto">
                 <aside>
                     <h2 className="text-3xl font-semibold">CareerHub</h2>
                     <p className="text-[gray]">There are many variations of passages<br /> of Lorem Ipsum , but the majority have<br />suffered alteration in some form.</p>

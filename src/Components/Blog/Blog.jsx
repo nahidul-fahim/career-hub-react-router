@@ -1,11 +1,11 @@
 
 
-const Home = () => {
+const Blog = () => {
     return (
         <div className="container mx-auto p-5">
-            <h1>Homepage</h1>
+            <h2>Blog page</h2>
         </div>
     );
 };
 
-export default Home;
+export default Blog;
